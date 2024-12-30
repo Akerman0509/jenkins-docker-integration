@@ -27,4 +27,5 @@ dist-ssr
 .env
 Jenkinsfile
 typst/
+typst2/
 

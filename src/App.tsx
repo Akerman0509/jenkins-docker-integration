@@ -17,7 +17,7 @@ function App() {
         <h2>Welcome to Counter Application</h2>
         <p>Track your clicks and have fun!</p>
         <p>MSSV: 22127348 22127341</p>
-        <p>testing 19 with pull</p>
+        <p>testing 22 with pull</p>
 
       </div>
       <h1>Simple Counter App</h1>
